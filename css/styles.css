@@ -58,7 +58,7 @@ h1 {
      padding-left: 2%;
     padding-right: 2%;
   }
-
+  font-size: 20px;
   body{
     margin: 0;
     padding: 0;
@@ -70,7 +70,7 @@ h1 {
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment:fixed;
-    padding-bottom: 20px;
+    padding-bottom: 500px;
     position: relative;
     overflow-x: hidden;
   
@@ -141,4 +141,20 @@ h1 {
 .controls-top{
   text-align: center;
   color: blue;
+}
+
+.contacts{
+  text-align: center;
+  background-image: url("../images/resized_Web-Solution6.jpg");
+  background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    overflow-x: hidden;
+    padding-bottom: 300px;
+}
+
+.col-md-3 p{
+color: black
 }
