@@ -1,0 +1,144 @@
+.topnav{
+    background-color: #333;
+    overflow: hidden;
+}
+.topnav a{
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 15px;
+    text-decoration: aqua;
+    font-size:large;
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1 {
+    letter-spacing: 8px;
+    color:greenyellow;
+    font-weight: bolder;
+    font-family: 'Wallpoet', cursive;
+    font-size: 60px;
+    text-shadow: 2px 2px 5px rgb(8, 156, 5);
+    text-align: center;
+  }
+
+  .landing {
+    overflow-x: hidden;
+    height: 100%;
+    scroll-behavior: smooth;
+    font-family: 'Eczar', serif;
+    text-align: center;
+    
+  }
+
+  .about{
+    text-align: center;
+    background-color:white;
+    background-image: url("../images/types-of-website-design-820x400.jpeg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+    background-size: cover;
+    position: relative;
+    overflow-x: hidden;
+    padding-bottom: 300px;
+
+
+  }
+  
+    
+
+  #us{
+    color: darkmagenta;
+  }
+  
+  
+  .about{
+     padding-left: 2%;
+    padding-right: 2%;
+  }
+
+  body{
+    margin: 0;
+    padding: 0;
+  }
+
+  .phelotech{
+    background-image: url("../images/electrical.jpg");
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    padding-bottom: 20px;
+    position: relative;
+    overflow-x: hidden;
+  
+  }
+
+  h2{
+    letter-spacing: 8px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: navy;
+    font-size: 40px;
+  }
+
+  .about p{
+    font-size: 20px;
+    color: powderblue;
+  }
+
+  .about li{
+    font-size: 20px;
+    color: palegreen;
+  }
+
+  .images h2{
+    text-align: center;
+  }
+
+
+  .col-md-4{
+  border-radius: 10%;
+  padding: 10px;
+}
+
+.col-md-4 img{
+  height: 400px;
+  width: 400px;
+
+}
+
+.col-md-3{
+  margin-left: 20%;
+}
+
+
+#col-md-3 text-justify{
+  padding-left: 20%;
+}
+
+.col-md-3{
+  margin-left: 20%;
+}
+
+.jumbotron .contact .row textarea
+{
+    background-color: transparent;
+}
+
+.order-overlay1{
+  background-color: rgba(0, 0, 0,0.5);
+  margin-left: 15%;
+  padding-left: 20px;
+  height: 300px;
+  width: 1050px;
+  
+}
+
+.controls-top{
+  text-align: center;
+  color: blue;
+}
